@@ -1,6 +1,6 @@
 # imageProcessingSystem
 
-My undergraduate work, a multi-functional image processing system, implemented by C++.
+My undergraduate work (course grade A), a multi-functional image processing system, implemented by C++.
 
 
 ![screen](https://github.com/fwyc0573/imageProcessingSystem/blob/main/fig1/fig1.png)
