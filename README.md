@@ -1,4 +1,4 @@
-# mageProcessingSystem
+# ImageProcessingSystem
 
 My undergraduate work (course grade A), a multi-functional image processing system, implemented by C++.
 
